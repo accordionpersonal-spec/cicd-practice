@@ -1,6 +1,1 @@
-# hello.py
-def add(a, b):
-    return a + b
-
-if __name__ == "__main__":
-    print(f"Hello! 2 + 3 is {add(2, 3)}")
+print("This is the version from MAIN branch")
